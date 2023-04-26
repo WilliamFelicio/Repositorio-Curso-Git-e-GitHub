@@ -1,7 +1,7 @@
 # Repositório Curso Git e GitHub
  **Repositório Curso *Git e GitHub*.**
 # TITULO 1
-~~risco~~
+~~Riscado~~
 
 Destacar comando em texto `printf("Olá Mundo");`
 

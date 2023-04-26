@@ -3,6 +3,10 @@
 # TITULO 1
 ~~Riscado~~
 
+**Negrito**
+
+*Italico*
+
 Destacar comando em texto `printf("Olá Mundo");`
 
 Trecho de programa :
